@@ -1,0 +1,9 @@
+Dataset Link:
+
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+
+GitHub Repository:
+
+https://github.com/Shehansg/heart-disease-ml.git
+
+YouTube Presentation:
